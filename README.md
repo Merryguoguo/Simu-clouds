@@ -27,6 +27,28 @@ This repository is creater for cloud simulation proposed in [paper](https://doi.
 <img width="500" height="300" src="https://github.com/Merryguoguo/Simu-clouds/assets/54757576/3d939061-1490-4a86-a0e5-f1e7ece9b968"/>
 
 ****  
+### :label:Implementation
+1. Cloud creation  
+   <img width="300" height="200" src="https://github.com/Merryguoguo/Simu-clouds/assets/54757576/6f706c83-23b1-43df-8b74-cb4d986e25b8"/>
+   
+    :petri_dish:Simplex noise  
+     For N dimensions space,   
+     pick the simplest and most compact shape  
+     that can be repeated to fill the entire space.
+     + One dimension  
+       ![image](https://github.com/Merryguoguo/Simu-clouds/assets/54757576/3d8889bf-4b3e-4de7-816f-15b2ae61094f)  
+     + Two dimensions  
+       ![image](https://github.com/Merryguoguo/Simu-clouds/assets/54757576/10a6d40f-e398-4e49-8dee-1ed70b75cff0)
+     + Three dimensions    
+       <img width="400" height="160" src="https://github.com/Merryguoguo/Simu-clouds/assets/54757576/c63f1e78-bc01-4088-9cab-99ef313afd82"/>
+     + N dimensions...  
+3. Alpha Blending  
+   ```
+   R(cldy) = α*R(cld) + (1-α)*R(bg)
+   G(cldy) = α*G(cld) + (1-α)*G(bg)
+   B(cldy) = α*B(cld) + (1-α)*B(bg)
+   ```     
+****  
 :crescent_moon: Auxiliary files for further understanding  
 Perlin, K., 2001. Real-Time Shading SIGGRAPH Course Notes.
 
