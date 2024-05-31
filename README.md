@@ -30,7 +30,11 @@ This repository is creater for cloud simulation proposed in [paper](https://doi.
 :crescent_moon: Auxiliary files for further understanding  
 Perlin, K., 2001. Real-Time Shading SIGGRAPH Course Notes.
 
-
+### Citing 
+If you find this code/data useful in your research then please cite our [paper](https://doi.org/10.1016/j.isprsjprs.2023.10.014):
+```
+Guo, Y., He, W., Xia, Y., & Zhang, H. (2023). Blind single-image-based thin cloud removal using a cloud perception integrated fast Fourier convolutional network. ISPRS Journal of Photogrammetry and Remote Sensing, 206, 63–86. https://doi.org/10.1016/j.isprsjprs.2023.10.014
+```
 
 
 
