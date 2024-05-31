@@ -24,7 +24,7 @@ This repository is creater for cloud simulation proposed in [paper](https://doi.
 
 
 ### :star2:Overall Transforming
-<img width="600" height="300" src="https://github.com/Merryguoguo/Simu-clouds/assets/54757576/3d939061-1490-4a86-a0e5-f1e7ece9b968"/>
+<img width="500" height="300" src="https://github.com/Merryguoguo/Simu-clouds/assets/54757576/3d939061-1490-4a86-a0e5-f1e7ece9b968"/>
 
 :crescent_moon: Auxiliary files for further understanding  
 Perlin, K., 2001. Real-Time Shading SIGGRAPH Course Notes.
