@@ -1,4 +1,4 @@
-# Simu-Cloud :cloud::stars:
+# Simu-Cloud :cloud:
 
 This repository is creater for cloud simulation proposed in [paper](https://doi.org/10.1016/j.isprsjprs.2023.10.014)
 
@@ -16,7 +16,7 @@ This repository is creater for cloud simulation proposed in [paper](https://doi.
 ![image](https://github.com/Merryguoguo/Simu-clouds/assets/54757576/ecdfe81a-81c0-4a60-9c40-82d837c43845)
 
 
-#### 	:dizzy:Underlying Clean Image (RSI, RGB)
+#### 	:stars:Simulated Cloudy Image (RSI, RGB)
 - natural scene  
 ![image](https://github.com/Merryguoguo/Simu-clouds/assets/54757576/1d5506ad-59d5-4cc8-be1e-84e65731a8cb)
 - Fourier Transform Map  
