@@ -1,4 +1,4 @@
-# Simu-clouds
+# Simu-Cloud :cloud::stars:
 
 This repository is creater for cloud simulation proposed in [paper](https://doi.org/10.1016/j.isprsjprs.2023.10.014)
 
