@@ -41,7 +41,7 @@ This repository is creater for cloud simulation proposed in [paper](https://doi.
      + Two dimensions  
        ![image](https://github.com/Merryguoguo/Simu-clouds/assets/54757576/10a6d40f-e398-4e49-8dee-1ed70b75cff0)
      + Three dimensions    
-       <img width="400" height="160" src="https://github.com/Merryguoguo/Simu-clouds/assets/54757576/c63f1e78-bc01-4088-9cab-99ef313afd82"/>
+       <img width="375" height="150" src="https://github.com/Merryguoguo/Simu-clouds/assets/54757576/c63f1e78-bc01-4088-9cab-99ef313afd82"/>
      + N dimensions...
    **********
 3. Alpha Blending  
