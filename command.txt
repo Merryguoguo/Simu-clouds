@@ -1,0 +1,3 @@
+# -------------------------------------------模拟云-------------------------------------------
+CUDA_VISIBLE_DEVICES=1 python make_dataset/make_clouds.py -n 73 -o save_dir
+		
